@@ -8,13 +8,13 @@
  * Requires PHP:      7.4
  * Author:            Riemann Research
  * Author URI:        https://usefree.space
- * License:           MIT
- * License URI:       https://opensource.org/licenses/MIT
+ * License:           GPLv2 or later
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       bg-live-chat-free
  * Domain Path:       /languages
  */
 
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: GPL-2.0-or-later
 // Copyright (c) 2026 Riemann Research. See LICENSE.
 
 defined( 'ABSPATH' ) || exit;

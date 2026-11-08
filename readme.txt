@@ -5,8 +5,8 @@ Requires at least: 5.8
 Tested up to: 6.7
 Requires PHP: 7.4
 Stable tag: 1.1.0
-License: MIT
-License URI: https://opensource.org/licenses/MIT
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 A free live chat widget with an AI chatbot. No account, no signup, no API key needed to start.
 
@@ -25,7 +25,7 @@ When the free allowance is used up, the widget saves the message and shows a fri
 
 == Installation ==
 
-1. Upload the `wordpress_bg_remover_livechat` folder to `/wp-content/plugins/`.
+1. Upload the `bg-live-chat-free` folder to `/wp-content/plugins/`.
 2. Activate the plugin through the *Plugins* menu.
 3. Open *Live Chat* in the admin menu for the inbox, and *Live Chat → Settings* to configure.
 4. The floating widget appears on your site. Embed it inline anywhere with `[bg_live_chat]`.

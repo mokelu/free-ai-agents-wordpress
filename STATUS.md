@@ -1,6 +1,6 @@
 ﻿# Status — AI Chat & Live Chat (WordPress)
 
-- [x] Scaffold native WP plugin (multi-file, `bglc` prefix, MIT, uninstall).
+- [x] Scaffold native WP plugin (multi-file, `bglc` prefix, GPLv2+, uninstall).
 - [x] Free-pool proxy reused from `wordpress_freeai_agents` (models / chat / quota; keys stay server-side; 429 → friendly usefree.space note).
 - [x] Custom tables `wp_bglc_thread` + `wp_bglc_message` (dbDelta), grouped per visitor.
 - [x] REST namespace `bglc/v1`: config, models, history, chat (public nonce) + threads, messages, reply, status (admin).

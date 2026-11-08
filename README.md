@@ -36,4 +36,4 @@ Copy this folder to `wp-content/plugins/wordpress_bg_remover_livechat/`, activat
 
 ## License
 
-MIT. Website: [usefree.space](https://usefree.space)
+GPLv2 or later. Website: [usefree.space](https://usefree.space)
